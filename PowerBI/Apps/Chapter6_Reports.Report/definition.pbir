@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Chapter6_Reports.Dataset"
+    },
+    "byConnection": null
+  }
+}
